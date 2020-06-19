@@ -1,2 +1,2 @@
 # leetcode_weekly
-Solutions and python codes for every-day task on leetcode-china.
+Python solutions for every-day tasks and some intersting challenges on leetcode-cn.
